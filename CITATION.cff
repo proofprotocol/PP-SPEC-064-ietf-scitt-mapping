@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-064: Proof of Efficacy Mapping to IETF SCITT"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-08"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-064-ietf-scitt-mapping"
+abstract: "A Proof Protocol mapping specification defining how proof records, ProofBundle, ProofStamp, and ProofRegister artifacts can be expressed as IETF SCITT Signed Statements, registered with a Transparency Service, and carried as Transparent Statements with COSE Receipts (RFC 9943, RFC 9942), without changing what constitutes proof."
+keywords:
+  - "Proof Protocol"
+  - "Proof of Efficacy"
+  - "IETF SCITT"
+  - "RFC 9943"
+  - "RFC 9942"
+  - "COSE Receipts"
+  - "transparency service"
+  - "supply chain integrity"
+  - "interoperability"
+  - "evidence"
+  - "efficacy"
+  - "proof"
