@@ -122,7 +122,7 @@ IETF SCITT is external work of the Internet Engineering Task Force, developed in
 
 IETF documents are subject to BCP 78 and the IETF Trust's Legal Provisions Relating to IETF Documents (https://trustee.ietf.org/license-info). The RFC 9943 copyright notice states that the document is "subject to BCP 78 and the IETF Trust's Legal Provisions Relating to IETF Documents" in effect on the date of publication, and that "Code Components extracted from this document must include Revised BSD License text" as described in Section 4.e of the Trust Legal Provisions (https://www.rfc-editor.org/rfc/rfc9943.html). Under Section 3.c.iii of the Trust Legal Provisions, unmodified excerpts of IETF Documents may be reproduced provided "each such portion is clearly attributed to IETF and identifies the RFC or other IETF Document" (https://trustee.ietf.org/assets/trust-legal-provisions/). The Trust Legal Provisions do not license modification of IETF Documents outside the IETF Standards Process.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted, licensed with conditions, or access-controlled, contributors MUST NOT copy upstream normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used.
 
